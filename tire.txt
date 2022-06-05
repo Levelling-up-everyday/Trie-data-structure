@@ -1,0 +1,2 @@
+Subsequence : It is contagious or non contagious which follows the order of the original string. Total number is 2^n including the empty string.
+              Ex:{1,2,3}={},1,2,3,{1,2,3},{1,2},{2,3},{1,3}.
